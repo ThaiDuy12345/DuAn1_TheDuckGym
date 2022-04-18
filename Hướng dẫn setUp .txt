@@ -1,0 +1,20 @@
+- 1.Chạy và execute file SQL theduckgym.sql
+- 2.Mở project và add hết tất cả thư viện jar trong thư mục QuanLyPhongGym
+- chạy file login.java
+---------------------
+- Quản lý: 
++ Username: DuyNNT
++ Pass: 123456
+---------------------
+- Nhân viên: 
++ Username: MinhLX
++ Pass: 123
+---------------------
+- Học viên: 
++ Username: ThanhNP
++ Pass: 123
+---------------------
+LƯU Ý: CẦN PHẢI LÀM ĐỦ CẢ 2 BƯỚC ĐẦU MỚI CÓ THỂ CHẠY MƯỢT
+Admin sql: sa
+Pass sql: 123
+cổng 1433
